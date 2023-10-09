@@ -13,3 +13,5 @@ for char in text:
 
 for key, value in histogram.items():
     print(key, " : ", value)
+
+print("koniec")
